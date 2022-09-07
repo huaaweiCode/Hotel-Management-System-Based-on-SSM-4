@@ -1,11 +1,5 @@
 # 基于SSM的酒店管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**酒店4** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
 ## 1、项目介绍
 
 基于SSM的酒店管理系统4只拥有管理员账号，实现了房间管理、商品管理、用户和团体信息管理、旅客预定房间、更换房间、消费食品、添加押金、财务统计、旅客统计等功能
@@ -63,11 +57,5 @@
 
 ![营业金额统计图](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208071655653.jpg)
 
-## 5、获取方式
 
-扫描下方，回复关键词  ：**酒店4** ，获取完整版源码
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
